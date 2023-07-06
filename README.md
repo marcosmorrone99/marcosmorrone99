@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
-- 📫 How to reach me **momarcos99@gmail.com**
+- 📫 How to reach me: **momarcos99@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
