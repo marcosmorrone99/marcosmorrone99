@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working as a Web Developer Intern at Uils, a platform that provides lending infrastructure for banks and fintechs to make credit offers to mobility gig workers using their driving history as a credit score.
+- 🔭 I’m currently working as a Full Stack Developer Intern at Uils, a platform that provides lending infrastructure for banks and fintechs to make credit offers to mobility gig workers using their driving history as a credit score.
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
