@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Full Stack Developer at Uils, a platform that provides lending infrastructure for banks and fintechs to make credit offers to mobility gig workers using their driving history as a credit score.
 
-- 🌱 Nowadays i´m focused on **Typescript and Next.js**
+- 🌱 Nowadays i´m focused on **Typescript, Next.js and Node.js**
 
 - 📫 How to reach me: **momarcos99@gmail.com**
 
