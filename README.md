@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working as a Software Developer at PSh, a platform that provides services to a Us-based EdTech.
 
+- I'm also working on Virale (iamvirale.com), a marketplace that connects Brands and Creators to generate virality on social media. 
+
 - 🌱 Nowadays i´m focused on **Typescript, React, Next.js and Node.js**
 
 - 📫 How to reach me: **morrone.marcos99@gmail.com**
